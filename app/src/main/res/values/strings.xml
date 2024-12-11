@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chuck Norris Facts</string>
+
+    <!-- generic -->
+    <string name="error_unknown">Unknown error, try again</string>
+    <string name="error_connection_failure">Cannot connect to server</string>
+    <string name="error_missing_information">Requested data cannot be retrieved</string>
+    <string name="generic_cd_backscreen">Previous screen</string>
+
+</resources>
